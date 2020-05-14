@@ -1,4 +1,4 @@
-FROM tomcat:8.0
+FROM tomcat:8.0-jre8
 
 MAINTAINER Arpan Gupta <arpan.gupta@mindtree.com>
 
